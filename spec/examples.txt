@@ -1,0 +1,9 @@
+example_id                                                               | status | run_time        |
+------------------------------------------------------------------------ | ------ | --------------- |
+./spec/command/create_community_command_spec.rb[1:1]                     | passed | 0.00124 seconds |
+./spec/event/send_on_boarding_messages_on_community_created_spec.rb[1:1] | passed | 0.00105 seconds |
+./spec/event/update_community_view_on_created_spec.rb[1:1]               | passed | 0.01068 seconds |
+./spec/infrastructure/command_bus_dispatcher_spec.rb[1:1]                | passed | 0.00127 seconds |
+./spec/infrastructure/command_bus_dispatcher_spec.rb[1:2]                | passed | 0.00216 seconds |
+./spec/infrastructure/command_bus_dispatcher_spec.rb[1:3]                | passed | 0.00149 seconds |
+./spec/infrastructure/command_bus_dispatcher_spec.rb[1:4]                | passed | 0.00376 seconds |

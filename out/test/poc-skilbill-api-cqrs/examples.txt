@@ -1,0 +1,5 @@
+example_id                                                | status | run_time        |
+--------------------------------------------------------- | ------ | --------------- |
+./spec/command/create_community_command_spec.rb[1:1]      | passed | 0.00089 seconds |
+./spec/infrastructure/command_bus_dispatcher_spec.rb[1:1] | passed | 0.00292 seconds |
+./spec/infrastructure/command_bus_dispatcher_spec.rb[1:2] | failed | 0.01244 seconds |
